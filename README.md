@@ -4,7 +4,7 @@
 
 **Icon pack** : [Box Series by Grayhouse](https://www.deviantart.com/grayhouse/art/bOx-serie4-1A-921774432). Applied it using [7tsp](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422). I have provided 7tsp pack (faded.7z) for easy application
 
-**Explorer and Star menu** : patched using [StartAllBack](https://www.startallback.com/). Start menu is themed using sab.style present in Kanagawa theme by niivu. You have to copy paste it in %Userprofile%/%Appdata%/Local/StartAllBack/Styles. Menu items are shortcuts. I made shortcuts and then changed icons to blank ones and then pinned them (black.ico shared in dots)
+**Explorer and Star menu** : patched using [StartAllBack](https://www.startallback.com/). Start menu is themed using sab.style present in Kanagawa theme by niivu. You have to copy paste it in C:\Users\%USERPROFILE%\AppData\Local\StartAllBack\Styles. Menu items are shortcuts. I made shortcuts and then changed icons to blank ones and then pinned them (black.ico shared in dots)
 
 **Taskbar Themed using [Windhawk](https://windhawk.net/)** : [How to use these configs](https://github.com/Legend0804/Work-Theme/blob/main/Windhawk%20Configs/How%20to%20use%20these%20scripts)
 
