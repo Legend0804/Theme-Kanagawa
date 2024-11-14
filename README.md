@@ -15,4 +15,8 @@
 **Spotify themed using spicetify, theme used is text**
 
 **Firefox Customization** : [CSS](https://github.com/FawazBinSaleem/FireFoxOneLinerCSS) and [Bento-Startpage](https://github.com/migueravila/Bento)
+
 ![New Project](https://github.com/user-attachments/assets/bac9a630-28db-4694-bf7b-4d4e7ee64672)
+
+## Please Note
+This is an advanced windows rice. Be cautious if you're complete beginner. Use help of YouTube and the tutorials found on respective apps' page. Creating system restore point is adviced.
