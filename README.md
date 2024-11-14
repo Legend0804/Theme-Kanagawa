@@ -6,7 +6,7 @@
 
 **Explorer and Star menu** : patched using [StartAllBack](https://www.startallback.com/). Start menu is themed using sab.style present in Kanagawa theme by niivu. You have to copy paste it in %Userprofile%/%Appdata%/Local/StartAllBack/Styles. Menu items are shortcuts. I made shortcuts and then changed icons to blank ones and then pinned them (black.ico shared in dots)
 
-**Taskbar Themed using [Windhawk](https://windhawk.net/)** : 
+**Taskbar Themed using [Windhawk](https://windhawk.net/)** : [How to use these configs](https://github.com/Legend0804/Work-Theme/blob/main/Windhawk%20Configs/How%20to%20use%20these%20scripts)
 
 **[Neofetch](https://github.com/dylanaraps/neofetch)** (neofetch config shared)
 
